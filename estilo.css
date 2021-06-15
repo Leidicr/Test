@@ -1,0 +1,13 @@
+
+.Tiprin{
+    text-align: center;
+    font-family:'electrical', Arial, sans-serif;
+    color: #808080;  }
+    
+.cuadro{border:2px solid #778899;
+    border-radius: 15px;
+    box-shadow: 6px 6px 0 #333;
+    padding: 10px;
+    margin:6px;
+    color: #808080;
+     }
